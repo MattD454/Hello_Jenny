@@ -1,0 +1,12 @@
+h1{
+  font-style: italic;
+  font-family: monospace;
+  color: #2D97D8;
+}
+.intro {
+  color: #C0392B;
+}
+h2{
+  text-decoration: underline;
+  color: #148F77;
+}
