@@ -10,3 +10,12 @@ h2{
   text-decoration: underline;
   color: #148F77;
 }
+
+p {
+    margin: 10px 20px
+}
+
+h3 {
+    border: 5px red;
+    text-decoration: underline;
+}
